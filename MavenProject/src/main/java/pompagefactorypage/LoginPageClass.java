@@ -28,6 +28,7 @@ public class LoginPageClass{
 		username.sendKeys(uname);
 		password.sendKeys(pwd);
 		loginbtn.click();
+		System.out.println("new addition");
 		
 	}
 	
